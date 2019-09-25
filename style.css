@@ -122,6 +122,9 @@ button:hover {
 }
 
 @media(max-width:768px) {
+    .border_design {
+        padding: 1em;
+    }
     .navigation_list ul {
         display: none;
     }
